@@ -1,0 +1,15 @@
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\bin\Debug\net6.0\высокосный год 23июня.exe
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\bin\Debug\net6.0\высокосный год 23июня.deps.json
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\bin\Debug\net6.0\высокосный год 23июня.runtimeconfig.json
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\bin\Debug\net6.0\высокосный год 23июня.dll
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\bin\Debug\net6.0\высокосный год 23июня.pdb
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.csproj.AssemblyReference.cache
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.AssemblyInfoInputs.cache
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.AssemblyInfo.cs
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.csproj.CoreCompileInputs.cache
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.dll
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\refint\высокосный год 23июня.dll
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.pdb
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\высокосный год 23июня.genruntimeconfig.cache
+C:\Users\Эдьвира\source\repos\высокосный год 23июня\obj\Debug\net6.0\ref\высокосный год 23июня.dll
